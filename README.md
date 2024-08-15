@@ -1,6 +1,6 @@
 ## About sey323
 
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm an Backend Engineer.
+　Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px">, I'm an Backend Engineer.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sey323/sey323/output/github-contribution-grid-snake-dark.svg" />
