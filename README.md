@@ -27,4 +27,6 @@ Hi, I'm an Backend engineer. 🤝
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sey323&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sey323&theme=gruvbox&utcOffset=9)
 
+### Trophy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sey323&margin-w=4)](https://github.com/sey323/)
