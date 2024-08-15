@@ -8,14 +8,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/sey323/sey323/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## Community
+## 🌎 Community
 
 Hackathon Teams
 
 - [てりたま](https://github.com/teritamas)
 - [dx-junkyard](https://github.com/dx-junkyard)
 
-## Outputs
+## 📤 Outputs
 
 Blogs
 
@@ -60,6 +60,6 @@ Blogs
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sey323&theme=gruvbox)
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sey323&theme=gruvbox&utcOffset=9)
 
-### Trophy
+## 🏆 Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sey323&margin-w=4&column=6&theme=onedark)](https://github.com/sey323/)
